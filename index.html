@@ -1,0 +1,187 @@
+<html>
+<head>
+    <title>Chat</title>
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <script type="text/javascript" src="js/DataChannel.js"></script>
+    <script type="text/javascript" src="js/firebase.js"></script>
+
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script type="text/javascript" src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="js/jquery.titlealert.min.js"></script>
+
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/knockout/3.1.0/knockout-min.js"></script>
+    <script type="text/javascript" src="js/knockout-sortable.js"></script>
+
+
+    <script type="text/javascript" src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+
+    <script type="text/javascript" src="js/extensions.js"></script>
+    <script type="text/javascript" src="js/YoutubeVideo.js"></script>
+    <script type="text/javascript" src="js/Command.js"></script>
+    <script type="text/javascript" src="js/ChatMessage.js"></script>
+    <script type="text/javascript" src="js/SiteModel.js"></script>
+    <script type="text/javascript" src="js/site.js"></script>
+
+    <script type="text/javascript" src="http://apis.google.com/js/client.js?onload=googleApiClientReady"></script>
+
+
+    <link type="text/css" rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css"/>
+
+
+    <link type="text/css" rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css"/>
+    <link type="text/css" rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+    <link type="text/css" rel="stylesheet" href="site.css"/>
+
+</head>
+
+<body>
+
+<audio src="message.mp3" id="audio-message" preload="auto"></audio>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <br/>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-8">
+            <div class="row">
+                <div class="col-md-12">
+
+                    <div class="panel panel-primary">
+                        <div class="panel-body" style="height: 80%;">
+                            <ul class="chat" data-bind="foreach: chatMessages">
+
+                                <li class="left clearfix" data-bind="css: {  new: isNew }">
+                                        <span class="chat-img pull-left">
+                                            <!-- ko if: userId() == site.userId() -->
+                                                <img src="http://placehold.it/30/FA6F57/fff&amp;text=ME" alt="User Avatar" class="img-circle">
+                                            <!-- /ko -->
+                                            <!-- ko if: userId() != site.userId() -->
+                                                <img src="http://placehold.it/30/55C1E7/fff&amp;text=U" alt="User Avatar" class="img-circle">
+                                            <!-- /ko -->
+                                        </span>
+
+                                    <div class="chat-body clearfix">
+                                        <div class="header">
+                                            <small class="pull-right text-muted"><abbr class="time" data-bind="text: date().toLocaleTimeString() , attr: {title: date}"></abbr>
+                                            </small>
+                                        </div>
+                                        <p style="word-wrap: break-word" data-bind="html: content"></p>
+                                    </div>
+                                </li>
+
+                            </ul>
+                        </div>
+                        <div class="panel-footer">
+                            <div class="input-group" data-bind="enterkey: sendMessage">
+                                <input data-bind="value: currentMessageContent, event: { keydown: function(model, e) { if (e.originalEvent.keyCode == 38) { editMessage(model, e); this.selectionEnd = this.value.length; } return true; } } " id="btn-input" type="text" class="form-control input-sm"
+                                       placeholder="Type your message here...">
+                                    <span class="input-group-btn">
+                                        <button class="btn btn-warning btn-sm" id="btn-chat" data-bind="click: sendMessage">Send</button>
+                                        <button class="btn btn-warning btn-sm" data-bind="click: toggleSound" style="height: 30px">
+                                            <!-- ko if: soundEnabled() == true -->
+                                            <i class="glyphicon glyphicon-volume-up"></i>
+                                            <!-- /ko -->
+                                            <!-- ko if: soundEnabled() == false -->
+                                            <i class="glyphicon glyphicon-volume-off"></i>
+                                            <!-- /ko -->
+                                        </button>
+                                    </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 col-xs-height">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="panel panel-primary">
+                        <div class="panel-body" style="overflow-y: hidden;">
+
+                            <div style="position: relative">
+                                <div id="player" style="width: 100%; height:250px;"></div>
+                                <div class="overlay"></div>
+                            </div>
+
+
+                            <div class="progress" data-bind="click: seekVideo, style: { cursor: isPlaying() ? 'pointer' : 'default' } "
+                                 style="margin-bottom: 0">
+                                <div class="progress-bar" role="progressbar" data-bind="attr: { style: percentageComplete }"></div>
+                            </div>
+
+
+                            <div class="btn-group">
+                                <button class="btn btn-success btn-sm" data-bind="click: resumeVideo, disable: isPlaying"><i class="fa fa-play"></i></button>
+                                <button class="btn btn-success btn-sm" data-bind="click: pauseVideo, enable: isPlaying"><i class="fa fa-pause"></i></button>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+
+                <div class="col-md-12">
+                    <div class="panel panel-primary" style="height: 400px">
+                        <div class="panel-body">
+                            <h4 style="text-align: center">Playlist</h4>
+                            <ul data-bind="sortable: { data: playlist, afterMove: reorderPlaylist }" class="nav nav-pills">
+                                <li>
+                                    <a style="cursor: pointer;">
+                                        <button class="btn btn-danger btn-xs" data-bind="click: function() { $parent.removeVideo($data); } "><i
+                                                class="fa fa-trash-o"></i></button>
+                                        <span data-bind="text: title"></span>
+
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="panel panel-primary">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="input-group" data-bind="enterkey: search">
+                            <input data-bind="value: searchQuery" type="text" class="form-control input-sm" placeholder="Search for video">
+                            <span class="input-group-btn">
+                                    <button class="btn btn-warning btn-sm" id="btn-search" data-bind="click: search">Search</button>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div data-bind="foreach: searchResults">
+                            <div style="float:left;width:20%">
+                                <div class="thumbnail">
+                                    <img data-bind=" attr { src: thumbnailUrl, alt: title  }"/>
+
+                                    <div class="caption">
+                                        <h4 data-bind="text: title"></h4>
+
+                                        <div class="btn-group">
+                                            <button class="btn btn-success btn-sm" data-bind="click: function() { $parent.playVideo($data); }"><i class="fa fa-youtube-play"></i> Play</button>
+                                            <button class="btn btn-success btn-sm" data-bind="click: function() { $parent.queueVideo($data); } "><i class="fa fa-plus"></i> List</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

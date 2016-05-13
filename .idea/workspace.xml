@@ -1,0 +1,1238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7de2d75-7189-4df8-bcbf-e8b56e138aff" name="Default" comment="" />
+    <ignored path="Youtube.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/index.html" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398414632951" ignored="false" />
+    <file path="/site.js" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397822933404" ignored="false" />
+    <file path="/a.dummy" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398413071998" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-web-app/src/main/resources/logback.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397743350910" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-component/src/main/resources/logback.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397743357637" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-common/src/main/resources/applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398320715624" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-common/src/main/java/net/homecredit/ws/logging/WSLoggingInterceptor.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398274739813" ignored="false" />
+    <file path="/WSLoggingInterceptor.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397591252035" ignored="false" />
+    <file path="/logback.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397590517298" ignored="false" />
+    <file path="/Dummy.txt" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398402049064" ignored="false" />
+    <file path="/site.css" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398170041480" ignored="false" />
+    <file path="/vn20r8lp.properties" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397661279337" ignored="false" />
+    <file path="C:/Work/LAP/dp/lap-cc/in/in23a1lp.properties" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397646017324" ignored="false" />
+    <file path="/applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398336280907" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module-hosel/src/main/resources/applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398343071730" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-parent/workflow-persistence/src/main/resources/dao-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397724724994" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-web-app/src/main/resources/applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397724704877" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-web-app/src/main/resources/properties/lap_cc_in20a7lp.properties" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397651800191" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/.idea/workspace.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397751888857" ignored="false" />
+    <file path="C:/Work/LAP/trunk/Workflow/hc-framework/hc-persistence/src/main/java/net/homecredit/hibernate/audit/HibernateTransactionAuditHandler.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398324535285" ignored="false" />
+    <file path="/fragment.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398349387139" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-persistence/src/main/resources/net/homecredit/lap/model/empl/AccessLog.hbm.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397723798503" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end/src/main/resources/actions-applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397723798503" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-persistence/src/main/java/net/homecredit/lap/model/empl/AccessLog.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397723798503" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-agreement-query-hosel/src/main/resources/agreementQueryContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398254184306" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-parent/workflow-persistence/src/main/resources/net/homecredit/workflow/mapping/wflow/Activity.hbm.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397747021412" ignored="false" />
+    <file path="/Activity.hbm.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397724780133" ignored="false" />
+    <file path="/Wflowstage.hbm.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397724989543" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-parent/workflow-persistence/src/main/resources/net/homecredit/workflow/mapping/wflow/Wflowstage.hbm.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397724989543" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-parent/workflow-engine/src/main/java/net/homecredit/workflow/engine/domain/impl/DefaultStageSearchStrategy.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397725222934" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-parent/workflow-commons-lib/src/main/java/net/homecredit/workflow/commons/service/impl/DispatchNoteSupportService.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397725264685" ignored="false" />
+    <file path="/DispatchNoteSupportService.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397725262856" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-parent/workflow-persistence/src/main/resources/net/homecredit/workflow/mapping/wflow/Workflow.hbm.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397747019843" ignored="false" />
+    <file path="$USER_HOME$/Downloads/jminix/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397737703748" ignored="false" />
+    <file path="C:/Work/LAP/trunk/Workflow/hc-root/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398402033698" ignored="false" />
+    <file path="/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398339835449" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-component/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397742441765" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-component/src/main/webapp/WEB-INF/web.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398343211937" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end/src/main/resources/net/homecredit/lap/cc/model/CreditExtendInfo.hbm.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398346433093" ignored="false" />
+    <file path="/CreditExtendInfo.hbm.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397738904890" ignored="false" />
+    <file path="/web.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397740598740" ignored="false" />
+    <file path="/WorkflowResultSender.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741738313" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module/src/main/java/net/homecredit/lap/approvalmodule/service/impl/WorkflowResultSender.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741738313" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-impl/src/main/java/net/homecredit/lap/agent/AbstractAgentFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741044481" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module/src/main/resources/agent-context-common.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398343270744" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module/src/main/resources/applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398340646775" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-impl/src/main/java/net/homecredit/lap/agent/Agent.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741335625" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module/src/main/java/net/homecredit/lap/approvalmodule/service/impl/FailedExtSysRequestAgent.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741383100" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module-hosel/src/main/resources/agent-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741413189" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end/src/main/resources/applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741345153" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module/src/main/resources/task-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398343197002" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end/src/main/java/net/homecredit/lap/cc/agent/ContractsToOperatorAgent.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741343652" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module-mn/target/classes/agent-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741413189" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module-mn/src/main/resources/agent-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741413189" ignored="false" />
+    <file path="/Agent.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741308759" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-impl/src/main/java/net/homecredit/lap/agent/AgentMBean.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741270493" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-impl/src/main/java/net/homecredit/lap/jmx/AgentMBean.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397742630908" ignored="false" />
+    <file path="/AgentMBean.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741287389" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-impl/src/main/java/net/homecredit/lap/cc/facade/impl/AccessControlFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397804053258" ignored="false" />
+    <file path="/AccessControlFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745049843" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-impl/src/main/java/net/homecredit/lap/agent/IJob.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741334575" ignored="false" />
+    <file path="/IJob.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741334575" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module/src/main/java/net/homecredit/lap/approvalmodule/service/impl/SBEContractsAgent.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741395596" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module/src/main/java/net/homecredit/lap/approvalmodule/service/impl/DBWorkflowRunner.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741352191" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-impl/src/main/java/net/homecredit/lap/agent/IJobFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741335625" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module/src/main/java/net/homecredit/lap/approvalmodule/service/impl/ExpiredContractsAgent.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741362250" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module/src/main/java/net/homecredit/lap/approvalmodule/service/impl/WaitingContractsAgent.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741716933" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module/src/main/java/net/homecredit/lap/approvalmodule/service/impl/SBEExpiredContractsAgent.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741408976" ignored="false" />
+    <file path="/ContractsToOperatorAgent.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741343652" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end/src/main/java/net/homecredit/lap/cc/agent/ContractsToOperatorJobFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745287668" ignored="false" />
+    <file path="/DBWorkflowRunner.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741352191" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module/src/main/java/net/homecredit/lap/approvalmodule/service/impl/DBWorkflowRunnerJobFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398279505743" ignored="false" />
+    <file path="/ExpiredContractsAgent.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741362250" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module/src/main/java/net/homecredit/lap/approvalmodule/service/impl/ExpiredContractsJobFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745674772" ignored="false" />
+    <file path="/FailedExtSysRequestAgent.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741383100" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module/src/main/java/net/homecredit/lap/approvalmodule/service/impl/FailedExtSysRequestJobFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342659858" ignored="false" />
+    <file path="/SBEContractsAgent.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741394598" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module/src/main/java/net/homecredit/lap/approvalmodule/service/impl/SBEContractsJobFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745665350" ignored="false" />
+    <file path="/SBEExpiredContractsAgent.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741408976" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module/src/main/java/net/homecredit/lap/approvalmodule/service/impl/SBEExpiredContractsJobFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745649632" ignored="false" />
+    <file path="/WaitingContractsAgent.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397741716933" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module/src/main/java/net/homecredit/lap/approvalmodule/service/impl/WaitingContractsJobFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745655166" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module/src/main/java/net/homecredit/lap/approvalmodule/service/impl/WorkflowResultSenderJobFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398338901621" ignored="false" />
+    <file path="C:/Work/LAP/trunk/Workflow/hc-framework/hc-persistence/src/main/java/net/homecredit/hibernate/monitoring/TransactionStatistics.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397742257440" ignored="false" />
+    <file path="/TransactionStatistics.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397742254057" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-print/ws-client-print-component/src/main/resources/connector-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397742341225" ignored="false" />
+    <file path="/connector-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397742341225" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-web-app/src/main/webapp/WEB-INF/web.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397751702842" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-web-app/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397742471831" ignored="false" />
+    <file path="/ConnectorMBean.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397742559680" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-common/src/main/java/net/homecredit/lap/ws/jmx/ConnectorMBean.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397742610662" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-component/src/main/resources/applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397746086565" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-parent/workflow-engine/src/main/resources/applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397742710933" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-component/src/main/resources/jmx-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397807763285" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module/src/main/java/net/homecredit/lap/approvalmodule/jmx/impl/VersionMBean.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397743263073" ignored="false" />
+    <file path="C:/Work/LAP/trunk/Workflow/hc-framework/hc-utils/src/main/java/net/homecredit/logback/HsLogbackConfigurationListener.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397743484523" ignored="false" />
+    <file path="/HsLogbackConfigurationListener.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397743458232" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-component/src/main/resources/jetty-jndi.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398343201177" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-web-app/src/main/resources/jetty-jndi.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397743583701" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-web-app/src/main/resources/jmx-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397807794145" ignored="false" />
+    <file path="/a.txt" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397743673545" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-component/src/main/resources/tx-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397804230752" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end/src/main/resources/tx-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745085872" ignored="false" />
+    <file path="/tx-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745029283" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-impl/src/main/java/net/homecredit/lap/cc/facade/impl/AbstractFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745079504" ignored="false" />
+    <file path="/AbstractFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745066516" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-front-end/src/main/resources/aop-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745116900" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-ws-parent/call-centre-ws-ext-parent/call-centre-ws-ext-component/src/main/resources/applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745183340" ignored="false" />
+    <file path="/InitializationFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745226313" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-impl/src/main/java/net/homecredit/lap/cc/facade/impl/InitializationFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745228019" ignored="false" />
+    <file path="/ContractsToOperatorJobFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745287060" ignored="false" />
+    <file path="/ActivityFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745442045" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end/src/main/java/net/homecredit/lap/cc/facade/impl/ActivityFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745442883" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end/src/main/java/net/homecredit/lap/cc/facade/impl/AdministrationFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745454130" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-component/src/main/java/net/homecredit/lap/ws/extsystems/facade/ApprovalProcessFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745459597" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-component/src/main/java/net/homecredit/lap/ws/extsystems/facade/impl/ApprovalProcessMnFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745463929" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end/src/main/java/net/homecredit/lap/cc/facade/impl/BrkiReportFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745469336" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end/src/main/java/net/homecredit/lap/cc/facade/impl/ChannelMessageFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745475212" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-cifnotification-module/lap-cifnotification-ws-ext-parent/lap-cifnotification-ws-ext-component/src/main/java/net/homecredit/lap/cifnotification/facade/impl/CodelistUpdateFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745478283" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end/src/main/java/net/homecredit/lap/cc/facade/impl/ConfigurationFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745742878" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end/src/main/java/net/homecredit/lap/cc/facade/impl/ConsoleLoginFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745483226" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end/src/main/java/net/homecredit/lap/cc/facade/impl/ContractSupportFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745487302" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end/src/main/java/net/homecredit/lap/cc/facade/impl/CreditBureauFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745516066" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end/src/main/java/net/homecredit/lap/cc/facade/impl/DispatchNoteSupportFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745499597" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end/src/main/java/net/homecredit/lap/cc/facade/impl/EmployeeFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745503026" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end/src/main/java/net/homecredit/lap/cc/facade/impl/FlowFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745508115" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end-hosel/src/main/java/net/homecredit/lap/cc/facade/impl/HomeVisitFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745512737" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end/src/main/java/net/homecredit/lap/cc/facade/impl/LocaleLabelsFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745540576" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end/src/main/java/net/homecredit/lap/cc/facade/impl/OperatorFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745555979" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end/src/main/java/net/homecredit/lap/cc/facade/impl/ParameterSettingsFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745562304" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module/src/main/java/net/homecredit/lap/approvalmodule/task/impl/WorkflowTaskFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745589341" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module/src/main/java/net/homecredit/lap/approvalmodule/task/impl/ApprovalModuleTaskListener.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745590913" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module/src/main/java/net/homecredit/lap/approvalmodule/task/IWorkflowTaskFactory.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745591338" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module/src/main/java/net/homecredit/lap/approvalmodule/task/impl/WorkflowTask.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745590913" ignored="false" />
+    <file path="/WorkflowExecutionFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745605681" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-parent/workflow-engine/src/main/java/net/homecredit/workflow/engine/facade/WorkflowExecutionFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745626855" ignored="false" />
+    <file path="/SBEExpiredContractsJobFacade.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745648920" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end/src/main/resources/serviceContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745731053" ignored="false" />
+    <file path="/serviceContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397745717870" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-component/src/main/resources/spring-jmx.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397746080294" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end/src/main/java/net/homecredit/lap/cc/service/ISearchAndAssignService.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397746760552" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-persistence/src/main/java/net/homecredit/lap/model/SearchParametersConfiguration.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397746760552" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-persistence/src/main/resources/net/homecredit/lap/model/empl/AdminLog.hbm.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397746760552" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-persistence/src/main/resources/net/homecredit/lap/model/scoring/StrategyType.hbm.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397746760552" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end/src/main/java/net/homecredit/lap/cc/service/impl/SearchAndAssignServiceMn.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397746760552" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-api/src/main/java/net/homecredit/lap/vo/impl/SearchParametersConfigurationVO.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397746760552" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end/src/main/java/net/homecredit/lap/cc/service/impl/SearchAndAssignServiceIn.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397746760552" ignored="false" />
+    <file path="C:/Work/LAP/LAP-4.5.0/Workflow/workflow-persistence/src/main/java/net/homecredit/workflow/dao/wflow/IWorkflowDao.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397746885489" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-parent/workflow-persistence/src/main/java/net/homecredit/workflow/dao/wflow/IWorkflowDao.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397746892781" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-parent/workflow-persistence/src/main/java/net/homecredit/workflow/dao/wflow/WorkflowDao.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397746914486" ignored="false" />
+    <file path="C:/Work/LAP/LAP-4.5.0/Workflow/workflow-persistence/src/main/java/net/homecredit/workflow/dao/wflow/WorkflowDao.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397746910847" ignored="false" />
+    <file path="C:/Work/LAP/LAP-4.5.0/Workflow/workflow-persistence/src/main/java/net/homecredit/workflow/dao/wflow/IActivityDao.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397746917885" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-parent/workflow-persistence/src/main/java/net/homecredit/workflow/dao/wflow/IActivityDao.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397746932716" ignored="false" />
+    <file path="C:/Work/LAP/LAP-4.5.0/Workflow/workflow-persistence/src/main/java/net/homecredit/workflow/dao/wflow/ActivityDao.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397746934561" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-parent/workflow-persistence/src/main/java/net/homecredit/workflow/dao/wflow/ActivityDao.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397746939487" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-component/src/main/resources/properties/lap_ext_vn20dvlp.properties" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398350811538" ignored="false" />
+    <file path="/lap_ext_vn20dvlp.properties" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398350807500" ignored="false" />
+    <file path="C:/Work/LAP/trunk/Workflow/hc-framework/hc-utils/src/main/java/net/homecredit/logback/ExceptionLoggingAspect.aj" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397750642067" ignored="false" />
+    <file path="/ExceptionLoggingAspect.aj" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397750625390" ignored="false" />
+    <file path="C:/Work/LAP/trunk/Workflow/hc-framework/hc-utils/src/main/resources/propertyPlaceholderContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397751702842" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398402013360" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-cifAddressCodeList/ws-client-cifAddressCodeList-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/client/cifaddresscodelist/oxm/Vector.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397751188812" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-blackandwhitelists/lap-ws-client-blackandwhitelists-oxm/target/generated-sources/jaxb/net/homecredit/ws/blackandwhitelists/Vector.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397751188812" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-oxm/target/generated-sources/jaxb/net/homecredit/obs/ApprovalOutputDataVector.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397751188812" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-oxm/target/generated-sources/jaxb/net/homecredit/lap_object_model_client/CancelApprovalProcessRequest.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397751247715" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-oxm/target/generated-sources/jaxb/net/homecredit/ws/bl/lap/dto/VectorAttrsInputDataDto.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397751247715" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-oxm/target/generated-sources/jaxb/net/homecredit/lap_object_model_client/CancelApprovalProcessResponse.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397751247715" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-oxm/target/generated-sources/jaxb/net/homecredit/ws/bl/lap/dto/VectorAttrsOutputDataDto.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397751247715" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-oxm/target/generated-sources/jaxb/net/homecredit/lap_object_model_client/package-info.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397751247715" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-oxm/target/generated-sources/jaxb/net/homecredit/ws/bl/lap/dto/ClientStatInputDataDto.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397803966788" ignored="false" />
+    <file path="/*.regexp" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397806534898" ignored="false" />
+    <file path="/jmx-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397806436663" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-component/src/main/resources/properties/lap_ext_in20a7lp.properties" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397807024415" ignored="false" />
+    <file path="/lap_ext_in20a7lp.properties" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397806744725" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-component/src/main/resources/properties/lap_ext_id20a7lp.properties" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397806757930" ignored="false" />
+    <file path="C:/Work/bsl/bsl/hs-ref/hs-application-ref/src/main/resources/configuration.properties" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397806801469" ignored="false" />
+    <file path="C:/Work/LAP/trunk/Workflow/hc-framework/hc-utils/src/main/java/net/homecredit/monitoring/test.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397806881069" ignored="false" />
+    <file path="C:/Work/LAP/trunk/Workflow/hc-framework/hc-utils/src/main/java/net/homecredit/monitoring/ConfigurableObjectNamingStrategy.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397808980821" ignored="false" />
+    <file path="/ConfigurableObjectNamingStrategy.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397808902987" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397832759417" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397815356647" ignored="false" />
+    <file path="/SiteModel.js" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398415288746" ignored="false" />
+    <file path="/Command.js" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397817011296" ignored="false" />
+    <file path="/YoutubeVideo.js" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397817198839" ignored="false" />
+    <file path="/knockout-sortable.js" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1397818217671" ignored="false" />
+    <file path="/ChatMessage.js" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398413254759" ignored="false" />
+    <file path="C:/Work/LAP/LAP-4.5.0/Workflow/workflow-engine/src/main/java/net/homecredit/workflow/engine/domain/impl/DefaultStageSearchStrategy.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398173868895" ignored="false" />
+    <file path="C:/Work/LAP/LAP-4.5.0/Workflow/workflow-commons-lib/src/main/java/net/homecredit/workflow/commons/service/impl/DispatchNoteSupportService.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398173868895" ignored="false" />
+    <file path="C:/Work/LAP/LAP-4.5.0/Workflow/workflow-persistence/src/main/resources/net/homecredit/workflow/mapping/wflow/Workflow.hbm.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398173868895" ignored="false" />
+    <file path="/settings.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398238918580" ignored="false" />
+    <file path="$USER_HOME$/Downloads/langer/osb_new_world/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398238263900" ignored="false" />
+    <file path="$USER_HOME$/Downloads/langer/osb_new_world/target/Model_Customer/osb-docs/all_services.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398238739639" ignored="false" />
+    <file path="$USER_HOME$/Downloads/langer/osb_new_world/target/Common/osb-customizations/preprod_vn/customize_all.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398238739639" ignored="false" />
+    <file path="$USER_HOME$/Downloads/langer/osb_new_world/target/Common/osb-customizations/preprod_in/customize_all.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398238739639" ignored="false" />
+    <file path="$USER_HOME$/Downloads/langer/osb_new_world/target/Common/osb-customizations/hotfix_vn/customize_all.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398238739639" ignored="false" />
+    <file path="$USER_HOME$/Downloads/langer/osb_new_world/target/Common/osb-customizations/train_vn/customize_all.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398238739639" ignored="false" />
+    <file path="$USER_HOME$/Downloads/langer/osb_new_world/target/Model_Customer/osb/Model_Customer/CustomerService/v4/Format/CustomerWS_v4.WSDL" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398238739639" ignored="false" />
+    <file path="$USER_HOME$/Downloads/langer/osb_new_world/target/Common/osb-customizations/train_id/customize_all.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398238739639" ignored="false" />
+    <file path="$USER_HOME$/Downloads/langer/osb_new_world/target/Common/osb-customizations/prod_vn/customize_all.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398238739639" ignored="false" />
+    <file path="$USER_HOME$/Downloads/langer/osb_new_world/target/Common/osb-customizations/prod_in/customize_all.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398238739639" ignored="false" />
+    <file path="$USER_HOME$/Downloads/langer/osb_new_world/target/Common/osb-customizations/pretest/customize_all.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398238739639" ignored="false" />
+    <file path="$USER_HOME$/Downloads/langer/osb_new_world/target/Common/osb-customizations/uat_vn/customize_all.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398238739639" ignored="false" />
+    <file path="$USER_HOME$/Downloads/langer/osb_new_world/target/Common/osb-customizations/uat_in/customize_all.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398238739639" ignored="false" />
+    <file path="$USER_HOME$/Downloads/langer/osb_new_world/target/Common/osb-customizations/uat_id/customize_all.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398238739639" ignored="false" />
+    <file path="$USER_HOME$/Downloads/langer/osb_new_world/target/Common/osb-customizations/load/customize_all.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398238739639" ignored="false" />
+    <file path="$USER_HOME$/Downloads/langer/osb_new_world/target/CIF_Provided/osb-customizations/dev/customize_all.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398238739639" ignored="false" />
+    <file path="$USER_HOME$/Downloads/langer/osb_new_world/target/Common/osb-docs/all_services.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398238739639" ignored="false" />
+    <file path="$USER_HOME$/Downloads/langer/osb_new_world/target/CustomerService/osb-docs/descriptors/Model_Customer.CustomerService.v4.Format.CustomerWS_v4.wsdl" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398238739639" ignored="false" />
+    <file path="$USER_HOME$/Downloads/langer/osb_new_world/target/CIF_Provided/osb-docs/all_services.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398238739639" ignored="false" />
+    <file path="$USER_HOME$/Downloads/langer/osb_new_world/target/CustomerService/osb-docs/services/CustomerService.v4.CustomerService_v4_Local.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398238739639" ignored="false" />
+    <file path="$USER_HOME$/Downloads/langer/osb_new_world/target/CustomerService/osb-docs/all_services.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398238739639" ignored="false" />
+    <file path="$USER_HOME$/Downloads/langer/osb_new_world/target/Accounts/osb-docs/all_services.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398238739639" ignored="false" />
+    <file path="C:/Work/LAP/LAP-4.1.2-maintenance-vn/Workflow/hc-framework/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398319501740" ignored="false" />
+    <file path="C:/Work/LAP/LAP-4.1.2-maintenance-vn/Workflow/hc-framework/hc-utils/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398249092460" ignored="false" />
+    <file path="C:/Work/LAP/LAP-4.1.2-maintenance-vn/Workflow/hc-framework/hc-time/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398249087397" ignored="false" />
+    <file path="C:/Work/LAP/LAP-4.1.2-maintenance-vn/Workflow/hc-framework/hc-security/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398249099687" ignored="false" />
+    <file path="C:/Work/LAP/LAP-4.1.2-maintenance-vn/Workflow/hc-framework/hc-persistence/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398249109162" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-ws-parent/call-centre-ws-ext-parent/call-centre-ws-ext-component/src/main/resources/cc-ws-spring-servlet.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398277104435" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-persistence/src/main/resources/net/homecredit/lap/model/empl/AdmactionAdmgroupOp.hbm.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398254184306" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-persistence/src/main/resources/net/homecredit/lap/model/empl/EmployeeAdmgroupOp.hbm.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398254184306" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-persistence/src/main/resources/net/homecredit/lap/model/empl/Employee.hbm.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398344991492" ignored="false" />
+    <file path="C:/Work/LAP/trunk/Workflow/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398401936378" ignored="false" />
+    <file path="/DummyFile.xpath" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398274713528" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-impl/src/main/java/net/homecredit/lap/endpoint/AccessEndpointInterceptor.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398275197122" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-component/src/main/resources/spring-endpoints.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398313823062" ignored="false" />
+    <file path="/spring-endpoints.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398281249799" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-component/src/main/resources/spring-objects-endpoints.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398279018567" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-component/src/main/java/net/homecredit/lap/ws/extsystems/endpoint/ApprovalProcessEndpoint.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398280850710" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-cifnotification-module/lap-cifnotification-ws-ext-parent/lap-cifnotification-ws-ext-component-hosel/src/main/resources/applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398281361039" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-cifnotification-module/lap-cifnotification-ws-ext-parent/lap-cifnotification-ws-ext-component-id/src/main/resources/applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398281405321" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-cifnotification-module/lap-cifnotification-ws-ext-parent/lap-cifnotification-ws-ext-component-in/src/main/resources/applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398281416080" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-cifnotification-module/lap-cifnotification-ws-ext-parent/lap-cifnotification-ws-ext-component-vn/src/main/resources/applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398281428278" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-cifnotification-module/lap-cifnotification-ws-ext-parent/lap-cifnotification-ws-ext-component-hosel/src/main/resources/endpoint-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398281486815" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-common/src/main/java/net/homecredit/lap/ws/transport/http/LapHttpMessageSender.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398282639563" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-common/src/main/java/net/homecredit/lap/ws/transport/http/LapHttpConnection.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398282702284" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-common/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398284661555" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398284657489" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-parent/workflow-activities/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398316079074" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398313456383" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component/src/main/java/net/homecredit/lap/workflow/activities/communication/connector/impl/BlazeHttpClientImpl.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398325179825" ignored="false" />
+    <file path="/BlazeHttpClientImpl.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398285504009" ignored="false" />
+    <file path="/BlazeFormatter.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398326347301" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component/src/main/java/net/homecredit/lap/workflow/activities/communication/connector/impl/BlazeFormatter.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398326353570" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-back-end-vn/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398322291621" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-persistence-vn/target/classes/META-INF/aop-ajc.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398325300353" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module-vn/target/classes/applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398325300353" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-persistence-vn/target/classes/dao-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398325300353" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-agreement-query-vn/target/classes/agreementQueryContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398325300353" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-persistence-vn/target/classes/applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398325300353" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-persistence-vn/target/classes/net/homecredit/lap/model/wfactivity/FamilyBook.hbm.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398325300353" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component-hosel/lap-workflow-component-hosel.iml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398403921198" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-approvalDataObs/lap-ws-client-approvalDataObs-component/src/main/java/net/homecredit/lap/ws/client/approvalDataObs/connector/impl/LapApprovalDataObsWSConnector.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398327044838" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component/src/main/java/net/homecredit/lap/workflow/activities/impl/WorkflowResultActivity.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398344468365" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component/src/main/java/net/homecredit/lap/workflow/activities/impl/WorkflowResultActivityBasic.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398331821608" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component/src/main/resources/activity-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398346433093" ignored="false" />
+    <file path="/WorkflowResultActivity.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398341468694" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component/src/main/java/net/homecredit/lap/workflow/activities/blaze/BlazeScoring.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398343514786" ignored="false" />
+    <file path="/BlazeScoring.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398343466106" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component/src/main/java/net/homecredit/lap/workflow/activities/communication/service/impl/LapCommunicationService.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398335213934" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component/src/main/java/net/homecredit/lap/workflow/activities/impl/BulkSearchBWListsActivity.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398341690666" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component/src/main/java/net/homecredit/lap/workflow/activities/impl/SearchBWListsActivity.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398335156754" ignored="false" />
+    <file path="/SearchBWListsActivity.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398335147833" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component-in/src/main/resources/blackList-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398335198543" ignored="false" />
+    <file path="/BulkSearchBWListsActivity.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398335208555" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component/src/main/resources/applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398336055067" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component-hosel/src/main/resources/activity-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398343496575" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component-in/src/main/java/net/homecredit/lap/workflow/activities/domain/impl/ApprovalOutputDataBuilderIn.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398335598431" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component-id/src/main/java/net/homecredit/lap/workflow/activities/domain/impl/ApprovalOutputDataBuilderId.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398335553997" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component-vn/src/main/java/net/homecredit/lap/workflow/activities/domain/impl/ApprovalOutputDataBuilderVn.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398335615167" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component-in/src/main/resources/applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398336012774" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component-hosel/src/main/resources/applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342876675" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component-in/src/main/resources/activity-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398336493408" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component-id/src/main/resources/activity-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398336503795" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component-id/src/main/resources/applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398345546995" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component-vn/src/main/resources/activity-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398336598552" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component-vn/src/main/resources/applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398345540953" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component/src/main/java/net/homecredit/lap/workflow/service/impl/AbstractDestiantionSystemResolver.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398336063702" ignored="false" />
+    <file path="/AbstractDestiantionSystemResolver.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398336049660" ignored="false" />
+    <file path="/DestinationSystemResolverIn.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398336088481" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component-hosel/src/main/java/net/homecredit/lap/workflow/service/impl/DestinationSystemResolverIn.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398336088481" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component-hosel/src/main/java/net/homecredit/lap/workflow/service/impl/MappedDestinationSystemResolver.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398336198454" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component/src/main/java/net/homecredit/lap/workflow/service/impl/SourceSystemToDestinationResolver.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398336393719" ignored="false" />
+    <file path="/SourceSystemToDestinationResolver.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398336221804" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component-hosel/src/main/java/net/homecredit/lap/workflow/activities/domain/impl/ApprovalOutputDataBuilderHosel.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398340686514" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component-mn/src/main/resources/activity-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398336701799" ignored="false" />
+    <file path="/a.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398337582441" ignored="false" />
+    <file path="/sample.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398337458662" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/resources/applicationContext-id.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398337934310" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/resources/applicationContext-in.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398337931060" ignored="false" />
+    <file path="/applicationContext-in.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398337922950" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/resources/applicationContext-vn.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398337926970" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/java/net/homecredit/lap/ws/client/workflowresult/connector/IWorkflowResultConnector.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398338897451" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/java/net/homecredit/lap/ws/client/workflowresult/connector/impl/WorkflowResultConnector.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398340357037" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component-hosel/src/main/resources/connector-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398338487772" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/resources/connector-context-hosel.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398348644837" ignored="false" />
+    <file path="/connector-context-hosel.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398348638779" ignored="false" />
+    <file path="/WorkflowResultConnector.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398339694568" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/java/net/homecredit/lap/ws/client/workflowresult/connector/impl/WRConnectorPreferences.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398347952628" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component-mn/src/main/resources/connector-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398338715214" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component-mn/target/classes/connector-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398341084829" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/resources/connector-context-mn.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398341198888" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/java/net/homecredit/lap/ws/client/workflowresult/connector/impl/WorkflowResultService.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398340954826" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/java/net/homecredit/lap/ws/client/workflowresult/mapper/impl/WorkflowProcessDetailedOutputMapper.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398339765017" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-component/src/main/resources/connector-context-mn.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398341160992" ignored="false" />
+    <file path="/WRConnectorPreferences.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398347946255" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/java/net/homecredit/lap/ws/client/workflowresult/connector/IWorkflowResultService.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398344268806" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/java/net/homecredit/lap/ws/client/workflowresult/connector/impl/WorkflowResultSimulationConnector.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398339435755" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/java/net/homecredit/lap/ws/client/workflowresult/connector/impl/IWorkflowResultConnector.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398339699836" ignored="false" />
+    <file path="/WorkflowResultSimulationConnector.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398339420722" ignored="false" />
+    <file path="/IWorkflowResultService.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398339473829" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/java/net/homecredit/lap/ws/client/workflowresult/mapper/IWorkflowResultMapper.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398339735066" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/java/net/homecredit/lap/ws/client/workflowresult/mapper/impl/ProcessApprovalOutputVectorRequestMapper.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398339744705" ignored="false" />
+    <file path="/WorkflowProcessDetailedOutputMapper.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398339761137" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/java/net/homecredit/lap/ws/client/workflowresult/mapper/impl/WorkflowProcessDetailedOutputMapperIn.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398340092168" ignored="false" />
+    <file path="/WorkflowProcessDetailedOutputMapperIn.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398339971707" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398339839481" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/java/net/homecredit/lap/ws/client/workflowresult/mapper/impl/WorkflowProcessOutputResultMapper.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398339903932" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-component/src/main/resources/mapper-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398340017512" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/resources/mapper-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398340001262" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/java/net/homecredit/lap/ws/client/workflowresult/mapper/impl/WorkflowResultMapper.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398339987881" ignored="false" />
+    <file path="/WorkflowResultService.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398340952211" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/java/net/homecredit/lap/ws/client/workflowresult/connector/impl/HSelectScoringVerificationConnector.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398346804365" ignored="false" />
+    <file path="/HSelectScoringVerificationConnector.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398344731005" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/java/net/homecredit/lap/ws/client/workflowresult/connector/impl/IHSelectScoringVerificationConnector.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398340376854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module-mn/src/main/resources/country.properties" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342649604" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module-hosel/src/main/resources/country.properties" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342651556" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/java/net/homecredit/lap/ws/client/workflowresult/connector/impl/WorkflowResultServiceMn.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398344307113" ignored="false" />
+    <file path="/WorkflowResultServiceMn.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398340996649" ignored="false" />
+    <file path="/activity-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398343483761" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/java/net/homecredit/lap/ws/client/workflowresult/connector/impl/WorkflowResultServiceHosel.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398344265392" ignored="false" />
+    <file path="/connector-context-mn.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398341198585" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/Rar$DRa0.886/inlined/visit.wsdl" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398341281062" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-oxm/target/generated-sources/jaxb/net/homecredit/ws/hselect/DispatchNoteDetail.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398345351351" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-oxm/target/generated-sources/jaxb/net/homecredit/obs/ProcessApprovalOutputVectorRequest.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398345351351" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-oxm/target/generated-sources/jaxb/net/homecredit/ws/hselect/AdditionalInfo.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398345351351" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-oxm/target/generated-sources/jaxb/net/homecredit/ws/hselect/Pair.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398345351351" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-oxm/target/generated-sources/jaxb/net/homecredit/lap/workflow/activities/domain/resultprocessingservice/ProcessApprovalOutput.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398348824375" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-oxm/target/generated-sources/jaxb/net/homecredit/ws/hselect/ResultOfVerificationProccessResponse.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398348824375" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-oxm/target/generated-sources/jaxb/net/homecredit/obs/Pair.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398345351351" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-oxm/target/generated-sources/jaxb/net/homecredit/ws/hselect/ApprovalOutputData.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398341548268" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-oxm/target/generated-sources/jaxb/net/homecredit/ws/hselect/ResultOfVerificationProccess.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398348824375" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-oxm/target/generated-sources/jaxb/net/homecredit/lap/result/ApprovalOutputData.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398348824375" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-oxm/target/generated-sources/jaxb/net/homecredit/ws/scoring/ResultOfVerificationProccess.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398345351351" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-persistence/src/main/resources/hibernate.cfg.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398341573300" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap_client_output/Result.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/ConsolidatedLoansCalculation.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap_client_output/ChangeProductParameters.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap_client_output/VerificationDetailResult.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap_client_output/LoanApplicationUpdate.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap_client_output/Pairs.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap_client_output/ProductResult.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap_client_output/OutputData.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap_client_output/ScoringVerificationRequest.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap_client_output/LoanBinResult.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap_client_output/AllowedChannel.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap_client_output/Warning.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap_client_output/PairedContract.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/cz/airbank/ams/ws/scoringverification/ProcessScoringNotificationRequest.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap_client_output/ProcessExecutionDetail.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap_client_output/ProductResultDetail.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap_client_output/AllowedDistribution.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap_client_output/ScoringDetail.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap_client_output/ApprovalProcessType.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap_client_output/package-info.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap_client_output/ObjectFactory.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap_client_output/HardCheck.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/CreditCard.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/Affidavit.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/LoanEnvelope.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/CandidateObligationCommon.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/ConsolidatedLoanStatus.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/Document.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/PersonType.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/SavingAccountApplication.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/Application.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/Channel.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/PersonFlag.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/ConsolidatedLoans.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/DocumentGroup.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/SystemFault.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/SameParameterCheck.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/ApplicationType.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/CreditOffer.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/AddressType.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/ChannelProcessType.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/CreditType.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/ApplicationChange.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/ObjectFactory.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/ChangeLoanParameters.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/PersonFinancialData.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/ContractEnvelope.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/DisponentEnvelope.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/AbstractResponse.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/DuplicityClient.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/ApprovalProcessStatus.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/ValidationResult.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/PersonPreviousApplicationSum.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/ProcessOrigin.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/PersonPreviousApplication.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/Employment.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/PreviousScoringRequest.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/CardEnvelope.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/PersonRequestApplication.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/CrossClientCheck.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/AccountApplication.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap_client_output/VerificationResult.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/EmploymentRole.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/BusinessFault.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/ChangeLoanEnvelope.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/Consent.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/DocumentType.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/ContactType.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/ChannelType.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/DocumentAttribute.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/CardApplication.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap_client_output/DocumentGroupDetail.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/CoreFault.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/BranchOffice.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/Contact.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap_client_output/ProductType.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/SavingAccountEnvelope.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/CurrentAccountApplication.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/Envelope.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/PersonPersonalData.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/CurrentAccountEnvelope.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/ValidationFault.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/Address.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/CashLoan.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/Employer.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/ContractApplication.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/Person.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/LoanApplication.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/cz/airbank/ams/ws/scoringverification/ObjectFactory.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/cz/airbank/ams/ws/scoringverification/ProcessScoringVerificationRequest.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/cz/airbank/ams/ws/scoringverification/ProcessScoringNotificationResponse.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/cz/airbank/ams/ws/scoringverification/ProcessScoringVerificationResponse.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/OverDraft.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/net/homecredit/lap/ws/approvalprocess/common/package-info.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-oxm/target/generated-sources/jaxb/cz/airbank/ams/ws/scoringverification/package-info.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/LAP-4.1.2-maintenance-vn/BlackAndWhiteList/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342076913" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module/src/main/java/net/homecredit/lap/approvalmodule/service/impl/ApprovalProcessService.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342378958" ignored="false" />
+    <file path="/ApprovalProcessService.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342322088" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-persistence/src/main/java/net/homecredit/lap/domain/wflow/vector/IVectorConstants.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398346433093" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-oxm/target/generated-sources/jaxb/net/homecredit/lap_client/StatusResponse.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-oxm/target/generated-sources/jaxb/net/homecredit/lap_client/ApprovalProcessStatusResponse.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398345451882" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-oxm/target/generated-sources/jaxb/net/homecredit/lap_client/ClearMetadataCacheRequest.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-oxm/target/generated-sources/jaxb/net/homecredit/lap_client/ProcessingStatus.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-oxm/target/generated-sources/jaxb/net/homecredit/lap_client/ApprovalProcessStatusRequest.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-oxm/target/generated-sources/jaxb/net/homecredit/lap_client/InvokeApprovalProcessResponse.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-oxm/target/generated-sources/jaxb/net/homecredit/lap_client/ProcessStatus.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-oxm/target/generated-sources/jaxb/net/homecredit/lap_client/InvokeWorkflowRestartRequest.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342780854" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module/src/main/resources/mapper-context-common.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398342943798" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component/src/main/resources/connector-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398343008090" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-approval-module-mn/src/main/resources/applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398343064362" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-persistence/src/main/resources/dao-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398343081730" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult-ams/ws-client-workflowresult-ams-component/src/main/resources/applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398343105849" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/resources/applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398349650924" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-common/src/main/resources/runner.properties" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398343167812" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component/src/main/java/net/homecredit/lap/workflow/service/impl/CreditSupportService.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398343800838" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-client-parent/lap-ws-client-workflowresult/ws-client-workflowresult-component/src/main/java/net/homecredit/lap/ws/client/workflowresult/connector/impl/HSelectScoringVerificationConnectorSimulator.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398346791809" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-persistence/src/main/java/net/homecredit/lap/model/empl/Employee.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398345010245" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component/src/main/java/net/homecredit/lap/workflow/activities/impl/AbstractActivity.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398345286937" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component-mn/src/main/resources/applicationContext.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398345917210" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component-vn/src/main/resources/blackList-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398345889110" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-workflow/lap-workflow-component-id/src/main/resources/blackList-context.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398345897607" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-cifnotification-module/lap-cifnotification-ws-ext-parent/lap-cifnotification-ws-ext-component-in/target/test-classes/applicationContext-test.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398345904997" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-web-app/src/main/resources/properties/lap_cc_vn20a7lp.properties" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398346391675" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-component/src/main/resources/properties/lap_ext_vn20a7lp.properties" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398346396717" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-front-end/src/main/resources/applicationContext-mn.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398346433093" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-persistence/src/main/resources/net/homecredit/lap/model/contract/AgreePersData.hbm.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398346433093" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-front-end/src/main/resources/applicationContext-id.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398346433093" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-front-end/src/main/resources/applicationContext-vn.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398346433093" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-front-end/src/main/resources/applicationContext-in.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398346433093" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/workflow-call-centre/call-centre-front-end/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398347012119" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-common/src/main/java/net/homecredit/lap/ws/connector/ConnectorFactory.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398349662729" ignored="false" />
+    <file path="/ConnectorFactory.java" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398348088142" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-ws-parent/lap-ws-ext-parent/lap-ws-ext-component/src/main/resources/properties/lap_ext_vn23a1lp.properties" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398349266174" ignored="false" />
+    <file path="C:/Work/LAP/trunk/lap/lap-core/lap-core-persistence/src/main/resources/net/homecredit/lap/model/contract/Credit.hbm.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398350162853" ignored="false" />
+    <file path="C:/Work/LAP/trunk/Workflow/hc-framework/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398401986091" ignored="false" />
+    <file path="C:/Work/LAP/trunk/Workflow/hc-framework/hc-time/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398401990832" ignored="false" />
+    <file path="C:/Work/LAP/trunk/Workflow/hc-framework/hc-security/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398401995168" ignored="false" />
+    <file path="C:/Work/LAP/trunk/Workflow/hc-framework/hc-persistence/pom.xml" changelist="d7de2d75-7189-4df8-bcbf-e8b56e138aff" time="1398401999744" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Youtube" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="38" selection-start="76" selection-end="76" vertical-scroll-proportion="0.12128713">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#1;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="favicon.ico" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/favicon.ico">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="site.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/site.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="38" selection-start="812" selection-end="812" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Command.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/Command.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="12" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="site.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="1" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChatMessage.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/ChatMessage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="4" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="knockout-sortable.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/knockout-sortable.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="134" column="52" selection-start="5740" selection-end="5740" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="extensions.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/extensions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="55" column="25" selection-start="1642" selection-end="1642" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.m2/settings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="17" selection-start="1139" selection-end="1139" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SiteModel.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/SiteModel.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="101" column="0" selection-start="2952" selection-end="2952" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/auth.js" />
+        <option value="C:/Work/LAP/dp/lap-ws/vn/vn20r8lp.properties" />
+        <option value="C:/Work/LAP/fix-ph-3.0.6/Workflow/workflow-persistence/src/main/resources/net/homecredit/workflow/mapping/wflow/DispatchNote.hbm.xml" />
+        <option value="$PROJECT_DIR$/Command.js" />
+        <option value="$PROJECT_DIR$/YoutubeVideo.js" />
+        <option value="$PROJECT_DIR$/knockout-sortable.js" />
+        <option value="$PROJECT_DIR$/extensions.js" />
+        <option value="$PROJECT_DIR$/site.js" />
+        <option value="$PROJECT_DIR$/SiteModel.js" />
+        <option value="$PROJECT_DIR$/ChatMessage.js" />
+        <option value="$PROJECT_DIR$/site.css" />
+        <option value="$USER_HOME$/.m2/settings.xml" />
+        <option value="$PROJECT_DIR$/js/extensions.js" />
+        <option value="$PROJECT_DIR$/js/ChatMessage.js" />
+        <option value="$PROJECT_DIR$/js/SiteModel.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="php-5.4.27" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="17" />
+    <option name="y" value="125" />
+    <option name="width" value="1336" />
+    <option name="height" value="880" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>JSCheckFunctionSignatures</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Youtube" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Youtube" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Youtube" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Youtube" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Youtube" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="JavaScript.Libraries" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Software/php-5.4.27" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Home\Projects\Youtube" />
+      <recent name="C:\Home\Projects\Youtube\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Home\Projects\Youtube\js" />
+      <recent name="C:\Home\Projects\Youtube" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Built-in Web Server.Web">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JettyConfiguration" factoryName="Local">
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="configFiles">
+            <list>
+              <JettyConfigFile>
+                <option name="active" value="true" />
+                <option name="path" value="etc\jetty-jmx.xml" />
+              </JettyConfigFile>
+            </list>
+          </option>
+        </data>
+      </server-settings>
+      <predefined_log_file id="Jetty" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Start" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="chrome" />
+        <option name="fileUrl" value="file://$PROJECT_DIR$/index.html" />
+      </JSDebuggerConfigurationSettings>
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Web" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Start" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Built-in Web Server.Web" />
+    </list>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="17" y="125" width="1336" height="880" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32226834" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28331688" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1923077" sideWeight="0.6777317" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25246826" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/Work/LAP/fix-ph-3.0.6/Workflow/workflow-persistence/src/main/resources/net/homecredit/workflow/mapping/wflow/DispatchNote.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="185" column="17" selection-start="9976" selection-end="9976" vertical-scroll-proportion="0.49088147" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/core-scripting.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="16" selection-start="955" selection-end="985" vertical-scroll-proportion="0.33264887">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/YoutubeVideo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="62" selection-start="96" selection-end="96" vertical-scroll-proportion="0.069815196" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavascriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="990" column="0" selection-start="15642" selection-end="15656" vertical-scroll-proportion="1.0413793" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="23" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/Public/Youtube/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="85" selection-start="376" selection-end="376" vertical-scroll-proportion="0.32380953" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/knockout-sortable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="134" column="52" selection-start="5740" selection-end="5740" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ChatMessage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="4" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.m2/settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="17" selection-start="1139" selection-end="1139" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/extensions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="25" selection-start="1642" selection-end="1642" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/site.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="38" selection-start="812" selection-end="812" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Command.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="12" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/SiteModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="0" selection-start="2952" selection-end="2952" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="1" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="38" selection-start="76" selection-end="76" vertical-scroll-proportion="0.12128713">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#1;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>bootstrap</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Youtube</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jquery-1.11.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
